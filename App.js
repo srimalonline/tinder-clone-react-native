@@ -10,7 +10,6 @@ export default function App() {
   );
 }
 
-taul
 
 const styles = StyleSheet.create({
   container: {
